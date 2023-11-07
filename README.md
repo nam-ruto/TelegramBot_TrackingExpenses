@@ -1,3 +1,7 @@
+<p align="center">
+ <h1 align="center">Telegram Bot: Tracking Expenses</h1>
+</p>
+
 ## Introduction
 This is a Telegram bot using for *tracking expenses* and *recording data to Google Sheets*. 
 Developed in Python language and using:
