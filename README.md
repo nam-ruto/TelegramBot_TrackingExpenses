@@ -34,6 +34,9 @@ Install requiremental package:
 ```
 Then, when you use `service_account()` method in your code, keep in mind to pass that path, e.g: `file = gspread.service_account("./.config/gspread/service_account.json")`
 
+<p><i>Refferences: <a href="https://docs.gspread.org/en/latest/api/auth.html#gspread.auth.authorize">Authentication docs - gspread</a></i></p>
+
+### 3. Blue-print
 
 
 
@@ -44,3 +47,7 @@ Then, when you use `service_account()` method in your code, keep in mind to pass
 ## Test
 
 *updating*
+
+## Result
+
+<p>Here is my released result: <a href="https://t.me/mkkeyBot">@mkkeyBot</a></p>
