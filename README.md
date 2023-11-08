@@ -7,7 +7,11 @@ This is a Telegram bot using for *tracking expenses* and *recording data to Goog
 Developed in Python language and using:
 * Python-Telegram-Bot library
 * Gspread library
-  
+
+Demo result:
+
+![mkkeyBot](./assets/result.gif "Tracking Expenses Bot")
+
 ## Get started
 
 ### 1. Requirements
@@ -69,8 +73,6 @@ Remind to save it securely and you will need it when set up environment when usi
 ## Result
 
 <p>Here is my released result: <a href="https://t.me/mkkeyBot">@mkkeyBot</a></p>
-
-![mkkeyBot](./assets/result.gif "Tracking Expenses Bot")
 
 Thank you for visiting!
 
