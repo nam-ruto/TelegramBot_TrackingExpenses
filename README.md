@@ -58,7 +58,7 @@ Remind to save it securely and you will need it when set up environment when usi
 * Create a new account.
 * <p>Start a new <code>console</code> &#8594; <code>bash</code></p>
 * Clone your project repo: `git clone https://<pat>@github.com/user_name/repo_name.git`
-* Set up virtual environment: `mkvirtualenv venv`
+* <p>Set up virtual environment: <code>mkvirtualenv venv</code></p>
 * Change direction to your root folder: you can use `pwd` and `ls` command to check the current position.
 * <p>Install all required package: <code>pip install -r requirements.text</code></p>
 * <p>Run main file: <code>python main.py</code></p>
