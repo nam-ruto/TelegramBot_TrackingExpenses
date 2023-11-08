@@ -65,10 +65,13 @@ Remind to save it securely and you will need it when set up environment when usi
 
 <p>&#9989; <b>Successfully, your bot is now live on sever!</b></p>
 
-## Test
-
-*updating*
 
 ## Result
 
 <p>Here is my released result: <a href="https://t.me/mkkeyBot">@mkkeyBot</a></p>
+
+![mkkeyBot](./assets/result.gif "Tracking Expenses Bot")
+
+Thank you for visiting!
+
+*Author: Hoang Duc Nam*
